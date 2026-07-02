@@ -1,5 +1,0 @@
-scikit-learn
-matpoltlib
-pandas
-numpy
-streamlit
